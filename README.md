@@ -21,10 +21,10 @@ O sistema é composto pelos seguintes serviços:
 ## 🚀 Como Executar
 ##  Instalar dependencias:
 
-cd frontend
-npm i
-cd ../backend
-npm i
+cd frontend <br>
+npm i <br>
+cd ../backend <br>
+npm i <br>
 cd ..
 ### Opção 1: Docker Compose (Recomendado)
 
