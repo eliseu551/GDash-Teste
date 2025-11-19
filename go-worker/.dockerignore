@@ -1,0 +1,6 @@
+*.go.sum
+.env
+.git
+.gitignore
+*.md
+
